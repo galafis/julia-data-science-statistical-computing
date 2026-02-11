@@ -1,6 +1,5 @@
 # Julia for Data Science and Statistical Computing
 
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-FF6B6B?style=for-the-badge) ![DataFrames](https://img.shields.io/badge/DataFrames-4ECDC4?style=for-the-badge)
 
 ---
 
